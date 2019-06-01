@@ -1,4 +1,6 @@
 # AWS_CodeDeploy_Example
+
+Credit Claudio Atilano: https://www.youtube.com/watch?v=F6oLG-LyIhc
 <br />
 Please make sure that you add the following files to your project for this to work
 <br />
